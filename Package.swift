@@ -16,7 +16,7 @@ let package = Package(
     targets: [
            .binaryTarget(
                name: "VLCDemo",
-               url: "https://github.com/NitaInfoTech/MobileVLCKit-SPM/releases/download/1.0.0/MobileVLCKit.xcframework.zip",
+               url: "https://github.com/NitaInfoTech/VLCDemo/releases/download/1.0.0/MobileVLCKit.xcframework.zip",
                checksum: "b869fbe29f9a3d56c98f5a6c5da84a72ae45e48719a5cd2d8e164a60fdf4911e"
            )
        ])
